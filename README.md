@@ -1,4 +1,4 @@
-# WebAI Project
+# Web_AI Project
 
 ## a) Problem Statement Reference
 **Problem Statement Chosen:** AI-powered web agent for browsing, searching, and interacting with web data.  
