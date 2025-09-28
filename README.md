@@ -23,7 +23,7 @@ We use a combination of backend APIs, a Streamlit frontend, and LLM-based reason
 
 ## c) System Architecture
 **Architecture Diagram / Workflow:**  
-![Architecture](screenshot_0.png)  
+![Architecture](SystemArchitecure.png)  
 
 **Data Flow Explanation:**  
 1. User enters a query via Streamlit frontend.  
