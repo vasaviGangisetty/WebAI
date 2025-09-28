@@ -23,7 +23,7 @@ We use a combination of backend APIs, a Streamlit frontend, and LLM-based reason
 
 ## c) System Architecture
 **Architecture Diagram / Workflow:**  
-![Architecture](SystemArchitecure.png)  
+![System Architecture](SystemArchitecture.png)  
 
 **Data Flow Explanation:**  
 1. User enters a query via Streamlit frontend.  
@@ -77,4 +77,3 @@ We use a combination of backend APIs, a Streamlit frontend, and LLM-based reason
   - Can extend to multiple LLM APIs  
   - Horizontal scaling with containerization  
 
----
